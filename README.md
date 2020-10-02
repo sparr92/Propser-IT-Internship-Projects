@@ -1,6 +1,6 @@
 # Propser-IT-Internship-Projects
 
-# Python Live Project
+# Python Anime App Project
 
 #### Within a two-week Sprint, I built a Django-based web application alongside a team of developers, with each of us working on our own specific Hobby Manager apps which could be navigated to from one shared home page. Honing my front-end and back-end development skills, I developed an Anime-themed Hobby Manager App, featuring a database that allows users to keep track of info about their favorite characters. Below I have reproduced code snippets and screenshots of the webpages.
 
@@ -182,7 +182,7 @@ def character_delete(request, pk):
 - Used Django, Python, PyCharm, Git, Azure, Bootstrap, Javascript, etc.
 
 
-# C# Live Project
+# C# Theater Website
 
 #### Within a two-week Sprint, I worked alongside a team of developers on an existing ASP.NET MVC 5 code-first application, correcting known errors on the website of a local non-profit organization. Assigned the fix of restricting visibility and access to an Edit button on a particular page, I researched how to determine the user role of the logged-in user, and restricted access both on the front-end and back-end. Below I have reproduced code snippets.
 
